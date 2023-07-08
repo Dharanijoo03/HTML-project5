@@ -1,0 +1,107 @@
+.Face{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 100%;
+    position: relative;
+    margin-right: 100px;
+    top: 150px;
+    left: 500px;
+}
+/* .reye{
+    border:7px solid black;
+    height:100px;
+    width:100px;
+    border-color: transparent transparent black transparent;
+    border-radius:100%;
+    position: absolute;
+    top:130px;
+    left:150px;
+} */
+.reye{
+    border:7px solid black;
+    height:150px;
+    width:100px;
+    border-color: black transparent transparent  transparent;
+    border-radius:100%;
+    position: absolute;
+    top:290px;
+    left:550px;
+}
+/* .leye{
+    border:7px solid black;
+    height:100px;
+    width:100px;
+    border-color: transparent transparent black transparent;
+    border-radius:100%;
+    position: absolute;
+    top:130px;
+    left:250px;
+} */
+.leye{
+    border:7px solid black;
+    height:150px;
+    width:100px;
+    border-color: black transparent transparent transparent;
+    border-radius:100%;
+    position: absolute;
+    top:290px;
+    left:660px;
+}
+/* .reb{
+    border:3px solid black;
+    height:100px;
+    width:100px;
+    border-color:goldenrod transparent transparent transparent;
+    border-radius:100%;
+    position: absolute;
+    top:170px;
+    left:150px;
+} */
+
+
+/* .leb{
+    border:3px solid black;
+    height:100px;
+    width:100px;
+    border-color: goldenrod transparent transparent transparent;
+    border-radius:100%;
+    position: absolute;
+    top:170px;
+    left:250px;
+} */
+
+/* .Mouth{
+    border:8px solid black;
+    height:130px;
+    width:100px;
+    border-color:  transparent transparent black transparent;
+    border-radius:100%;
+    position: absolute;
+    top:200px;
+    left:200px;
+} */
+.Mouth{
+    border:8px solid black;
+    height:200px;
+    width:240px;
+    border-color:  transparent transparent black transparent;
+    border-radius:100%;
+    position: absolute;
+    top:240px;
+    left:550px;
+}
+.Tongue{
+    background-color:red;
+    height: 100px;
+    width: 80px;
+    border-radius: 0px 0px 50px 50px;
+    top: 170px;
+    left: 150px;
+    position: absolute;
+    transform: rotate(-35deg);
+    
+    
+}   
+
+
